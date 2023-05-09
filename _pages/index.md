@@ -42,4 +42,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/../assets/images/statue-gaa047b457_1920.jpg)
+![image](../assets/images/statue-gaa047b457_1920.jpg)
