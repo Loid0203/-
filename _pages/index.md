@@ -12,9 +12,9 @@ permalink: /
 ---
 
 以下テンプレート
-  ![image](https://github.com/Loid0203/-/blob/main/assets/images/temple.jpeg)
-  ![image](https://github.com/Loid0203/-/blob/main/assets/images/stadium.jpg)
-  ![image](https://github.com/Loid0203/-/blob/main/assets/images/nagai.jpeg)
+  ![image](/-/assets/images/temple.jpeg)
+  ![image](/-/assets/images/stadium.jpg)
+  ![image](/-/assets/images/nagai.jpeg)
 # **神社とスポーツが立ち並ぶ住吉区**
 
 [リンク](https://www.city.osaka.lg.jp/sumiyoshi/)
