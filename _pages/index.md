@@ -12,9 +12,9 @@ permalink: /
 ---
 
 以下テンプレート
-![image](../assets/images/6a5e4c00-cd38-11e8-b88d-0af0cba29dd8.jpeg)
-![image](../assets/images/２０１９０２_０２１_０２.jpg)
-![image](../assets/images/.jpg)
+![image](https://github.com/Loid0203/-/blob/main/assets/images/temple.jpeg)
+![image](https://github.com/Loid0203/-/blob/main/assets/images/stadium.jpg)
+![image](https://github.com/Loid0203/-/blob/main/assets/images/nagai.jpeg)
 # 北方領土は日本の土地
 
 
