@@ -12,7 +12,9 @@ permalink: /
 ---
 
 以下テンプレート
-
+![image](../assets/images/6a5e4c00-cd38-11e8-b88d-0af0cba29dd8.jpeg)
+![image](../assets/images/２０１９０２_０２１_０２.jpg)
+![image](../assets/images/.jpg)
 # 北方領土は日本の土地
 
 
@@ -42,4 +44,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](../assets/images/statue-gaa047b457_1920.jpg)
+
