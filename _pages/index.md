@@ -1,6 +1,6 @@
 ---
-title: "ここにページのタイトル"
-author: default
+title: "地元紹介"
+author: 私
 permalink: /
 ---
 
@@ -15,9 +15,9 @@ permalink: /
 ![image](https://github.com/Loid0203/-/blob/main/assets/images/temple.jpeg)
 ![image](https://github.com/Loid0203/-/blob/main/assets/images/stadium.jpg)
 ![image](https://github.com/Loid0203/-/blob/main/assets/images/nagai.jpeg)
-> # ＊＊神社とスポーツが立ち並ぶ住吉区＊＊
+> # **神社とスポーツが立ち並ぶ住吉区**
 
-[リンク](https://www.google.co.jp/)
+[リンク](https://www.city.osaka.lg.jp/sumiyoshi/)
 
 **太字**
 
@@ -33,6 +33,7 @@ permalink: /
 1. 番号付きリスト
    1. ネスト
       1. さらにネスト
+
 
 
 | 列1  | 列2  |
