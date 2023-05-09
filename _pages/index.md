@@ -42,4 +42,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+![image](/../assets/images/statue-gaa047b457_1920.jpg)
